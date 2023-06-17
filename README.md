@@ -78,6 +78,9 @@ And to apply the algorithm type and run. Please notice "cat-dog.jpg" is an examp
 ![13](https://github.com/iamselimyildiz/OBJECT_DETECTION_YOLOV7/assets/94224409/6cefe305-fdc9-478b-b0ca-77c2d94c66f0)
 
 
+8-also thanks to TheCodingBug for his contribution. Here you may also check out his Youtube channel.TheCodinBug
+https://www.youtube.com/watch?v=_CkXDjmT8dc&t=385s
+
 
 
 
