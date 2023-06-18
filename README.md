@@ -1,7 +1,7 @@
 
-![cat-dog](https://github.com/iamselimyildiz/OBJECT_DETECTION_YOLOV7/assets/94224409/152950cf-12ea-41ec-9dd4-bd63d50ad667)  
 # OBJECT_DETECTION_YOLOV7
 Guide to detect objects using google colab+yolov7  
+![cat-dog](https://github.com/iamselimyildiz/OBJECT_DETECTION_YOLOV7/assets/94224409/152950cf-12ea-41ec-9dd4-bd63d50ad667)  
 1-Hello friend, firstly open a new google colab project.  
 ![1](https://github.com/iamselimyildiz/OBJECT_DETECTION_YOLOV7/assets/94224409/ed336663-cd77-4904-b401-8fec2591aa40)  
 2-Connecting our pc to a virtual computer (tesla graphic card).Go to Runtime/Change Runtime Type. Set Hardware accelerator to GPU  
